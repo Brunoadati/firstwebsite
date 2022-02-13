@@ -5,4 +5,4 @@
  -[ ] Criar HTML
  -[ ] Criar CSS
  -[ ] Criar JS
- -[ ] Cagar
+ -[ ] Exercitar GIT em casa
